@@ -1,0 +1,91 @@
+body {
+  background-color: lightblue;
+
+}
+
+
+.mare {
+  height: 670px;
+  width: 1438px;
+}
+.terra {
+  position: absolute;
+  top: 324px;
+  left: 74px;
+  border: 1px green solid;
+  height: 225px;
+}
+.orsetto {
+  position: absolute;
+  top: 66px;
+  left: 86px;
+  border: 1px green solid;
+  height: 225px;
+}
+
+.titolo {
+  position: absolute;
+  top: -43px;
+  left: 444px;
+  font-family: cursive;
+  font-size: xxx-large;
+}
+
+.paragrafo1 {
+  position: absolute;
+  top: 63px;
+  left: 444px;
+  line-height: 0.8;
+  font-family: cursive;
+  font-size: xxx-large;
+}
+
+.paragrafo2 {
+  position: absolute;
+  top: 323px;
+  left: 444px;
+  line-height: 0.8;
+  font-family: cursive;
+  font-size: xxx-large;
+}
+
+.button1 {
+  position: relative;
+  top: -65px;
+  left: 444px;
+  width: 808px;
+  height: 42px;
+  font-size: 31px;
+  color: #000;
+  
+}
+
+
+.video1 {
+  position: relative;
+  left: 89px;
+}
+.mrb1{
+  position: relative;
+  left: 89px;
+}
+
+.mrb2{
+  position: relative;
+  left: -48px;
+}
+
+
+
+
+
+
+.imgfin {
+  position: relative;
+  left: -32px;
+
+}
+
+
+.container, .container-fluid {   
+    /* Set width to your desired site width */     min-width: 1170px; }
